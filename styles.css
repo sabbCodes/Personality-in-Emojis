@@ -15,7 +15,7 @@ h1{
 
 #stage{
     margin: 70px auto 30px;
-    padding-bottom: 10px;
+    padding: 10px 0;
     text-align: center;
     border: 2px dashed pink;
     border-radius: 4.6px;
